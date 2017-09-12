@@ -16,6 +16,6 @@
 #ifndef _ACPI_H_
 #define _ACPI_H_
 
-#include <IndustryStandard/Acpi61.h>
+#include <IndustryStandard/Acpi62.h>
 
 #endif
